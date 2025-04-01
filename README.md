@@ -1,4 +1,4 @@
-# GitHub Template
+# Organization Templates
 
 ## Workflow template
 
