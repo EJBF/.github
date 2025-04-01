@@ -1,5 +1,11 @@
 # GitHub Template
 
+## Workflow template
+
+Workflow templates can be created by users with write access to the organization's public .github repository. These can then be used by organization members who have permission to create workflows.
+
+Workflow templates created by users can only be used to create workflows in public repositories. Organizations using GitHub Enterprise Cloud can also use workflow templates to create workflows in private repositories.
+
 ## Metadata description
 
 **name** - Required. The name of the workflow. This is displayed in the list of available workflows.
